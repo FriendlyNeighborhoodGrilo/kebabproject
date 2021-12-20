@@ -8,7 +8,7 @@ Class App
     public function __construct()
     {
 
-        echo "test";
+        
 
         $url = $this->splitURL();
 
