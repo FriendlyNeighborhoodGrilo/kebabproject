@@ -8,6 +8,13 @@ Class Upload extends Controller{
         
         $this->view("kebab_template/upload" ,$data);
     }
-
+    
+    function image()
+    {
+        
+        $data['page_title'] = "Upload";
+        
+        $this->view("kebab_template/upload" ,$data);
+    }
     
 }

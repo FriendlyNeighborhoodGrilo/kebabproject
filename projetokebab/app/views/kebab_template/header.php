@@ -28,9 +28,9 @@
           <div class="s-12 l-2">
             <a href="index.html" class="logo">
               <!-- Logo version before sticky nav -->
-              <img class="logo-before" src="<?=ASSETS?>kebab_template/img/logo-dark.png" alt="">
+              <img class="logo-before" src="<?=ASSETS?>kebab_template/img/logo5.png" alt="">
               <!-- Logo version after sticky nav -->
-              <img class="logo-after" src="<?=ASSETS?>kebab_template/img/logo-dark.png" alt="">
+              <img class="logo-after" src="<?=ASSETS?>kebab_template/img/logo5.png" alt="">
             </a>
           </div>
           <div class="s-12 l-10">
